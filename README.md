@@ -1,0 +1,2 @@
+# rigistaration.css
+task6
